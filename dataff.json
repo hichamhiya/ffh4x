@@ -1,25 +1,25 @@
 {
 
 	"Ads" : {
-	    "PriorityBanner": "random",
-	    "PriorityInterstitial": "random",
-	    "PriorityNative": "random",
-	    "ClickCount": 2,
-	    "AdShowingAfter":3,
+	    "PriorityBanner": "admob",
+	    "PriorityInterstitial": "admob",
+	    "PriorityNative": "admob",
+	    "ClickCount": 1,
+	    "AdShowingAfter":1,
 	    "AdmobBanner": "ca-app-pub-3940256099942544/6300978111",
 	    "AdmobInterstitial": "ca-app-pub-3940256099942544/1033173712",
 	    "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
-	    "ApplovinBanner": "xxxxxxxxxxx",
-	    "ApplovinInterstitial": "xxxxxxxxxx",
-	    "ApplovinNative": "xxxxxxxxxxx",
+	    "ApplovinBanner": "e69fa8d4b03b6b19",
+	    "ApplovinInterstitial": "25fe6dc638e5453c",
+	    "ApplovinNative": "0fbdf765bc0c571b",
 	    "IronAppKey":"xxxxxxxxxxx",
 	    "IronBanner":"xxxxxxxxxxx",
 	    "IronInterstitial":"xxxxxxxxxxx",
-	    "ShowCustomBanner":true,
-	    "ShowCustomInterstitial":true,
-	    "ShowCustomNative":true
+	    "ShowCustomBanner":false,
+	    "ShowCustomInterstitial":false,
+	    "ShowCustomNative":false
 	},
-
+ 
 	"CSInter" :[
 	  {
 	    "AdBigImage":"https://digivizer.com/wp-content/uploads/2020/06/Dominos-Image-Ad-with-Text.png",
@@ -56,77 +56,34 @@
     ],
  "CSNative" :[
    {
-     "AdIcon":"https://play-lh.googleusercontent.com/4whGAVjZGrrlNxzheKAfBXrxggtyAb4euWLeQI8fDfVfdnFEZjE0DZTJ8DKoh64pqcIa=s360-rw",
-     "AdBigImage":"https://play-lh.googleusercontent.com/ySMoXKC1kW7ZP4vQiZ-ocQS0jJbJb4RXtqi14mFNnEPF3izFV1etPPHsrHuE2wVFwZM",
-      "AdTitle":"Hulu: Stream TV Series & Films",
-      "AdLink":"https://play.google.com/store/apps/details?id=com.hulu.plus&hl=en&gl=US",
+     "AdIcon":"https://play-lh.googleusercontent.com/7PMgxW-AP_3rpjg8fVUWLIN2AIk_uD_V7MlSD0AZFnuXJrLU9REPIFysYCmLJwE613g=s360-rw",
+     "AdBigImage":"https://lh3.googleusercontent.com/9I1fW-CwU-gYcRzAbk0Kl3qNSf1BlekakIBuRjKLwGXBBIIp-JnwDv1Et3VXAx_bakw=h310",
+      "AdTitle":"Piano Tiles 3",
+      "AdLink":"https://play.google.com/store/apps/details?id=black.piano.tiles3.pianogames",
       "AdButtonText":"Watch Now"
    },
     {
-     "AdIcon":"https://miro.medium.com/max/1400/1*t_G1kZwKv0p2arQCgYG7IQ.gif",
-     "AdBigImage":"https://miro.medium.com/max/1400/1*t_G1kZwKv0p2arQCgYG7IQ.gif",
-      "AdTitle":"Hulu: Stream TV Series & Films",
-      "AdLink":"https://play.google.com/store/apps/details?id=com.hulu.plus&hl=en&gl=US",
+     "AdIcon":"linkiconapp",
+     "AdBigImage":"https://lh3.googleusercontent.com/9I1fW-CwU-gYcRzAbk0Kl3qNSf1BlekakIBuRjKLwGXBBIIp-JnwDv1Et3VXAx_bakw=h310",
+      "AdTitle":"Piano Tiles 3",
+      "AdLink":"linkapp",
       "AdButtonText":"Random Now"
    }
    ],
-
+ 
  "PromotedApps": [
-	    {
-			"AppTitle": "RAID: Shadow Legends",
-			"AppImage": "https://play-lh.googleusercontent.com/VwJOgj0Papli5Xqe2ATOvDhe94L1_f4OHGB4h_9qVAvTFojEFXiqrHMyp8H6iJmpeg=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.plarium.raidlegends"
-		},
-		{
-			"AppTitle": "Summoners War",
-			"AppImage": "https://play-lh.googleusercontent.com/UbdpbnAWSOFU_35tULIOPLmV5ey0bq6NTL59Ko7nNfig8WqNPbO3xAHsoQA9Sk8-_V0=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.com2us.smon.normal.freefull.google.kr.android.common"
-		},
-		{
-			"AppTitle": "Skylanders™ Ring of Heroes",
-			"AppImage": "https://play-lh.googleusercontent.com/6q5ZNqE-WyEBas2xOkQnyy-nj4xbaGvFx1L5C9G0b85NJKtNs0yv4ZJvlHMeuDRZQHiK=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.com2us.slroh.normal.freefull.google.global.android.common"
-		},
-		{
-			"AppTitle": "Summoners Era - Arena of Heroes",
-			"AppImage": "https://play-lh.googleusercontent.com/MGWufLCZZjvDY67arl76WUmiUvpnmV9DfkZt45H4_FAi6TUjzf6WaF1KixsKsraOm_g-=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.fansipan.summoners.era.idle"
-		},
-		{
-			"AppTitle": "Immortal Summoners - Choice of Destiny",
-			"AppImage": "https://play-lh.googleusercontent.com/OZrFDE0WGT8CcQYqiWNy9xo3ydh3FYVP8Wmy1qpFT9rZWyMTiLGYoS9PCZZH5CNPXQ=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.lm.ky"
-		},
-			{
-			"AppTitle": "Coin Master",
-			"AppImage": "https://play-lh.googleusercontent.com/zPqwtC-BSqkaqNHb1r-GI_Ss1mUINKC4_GnHaZ1a-nuYppIhNVkVq90g3X2zTdgWZmcR=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster"
-		},
-			{
-			"AppTitle": "Pirate Kings™️",
-			"AppImage": "https://play-lh.googleusercontent.com/_S25eq9U9jKMBn1SYVfq4sA9dZjcTmx6-_H2U7dy9j9iJv-CcMSy7BL2H0ZfhLDIyUTu=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.jellybtn.cashkingmobile"
-		},
-			{
-			"AppTitle": "Match Masters",
-			"AppImage": "https://play-lh.googleusercontent.com/OYGPpronWEXUE-hv15VnEhJQLX9QTMUQDrf29Q2ZUUdI0nyCTm10FrG-f4ofk6RVmiM=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.funtomic.matchmasters"
-		},
-		{
-			"AppTitle": "Match Masters",
-			"AppImage": "https://play-lh.googleusercontent.com/OYGPpronWEXUE-hv15VnEhJQLX9QTMUQDrf29Q2ZUUdI0nyCTm10FrG-f4ofk6RVmiM=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.funtomic.matchmasters"
-		},
-		{
-			"AppTitle": "Match Masters",
-			"AppImage": "https://play-lh.googleusercontent.com/OYGPpronWEXUE-hv15VnEhJQLX9QTMUQDrf29Q2ZUUdI0nyCTm10FrG-f4ofk6RVmiM=s360-rw",
-			"AppLink": "https://play.google.com/store/apps/details?id=com.funtomic.matchmasters"
-		}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 	],
  "CpItems" : {
-      "CpImage":"https://firstsportz.com/wp-content/uploads/2021/02/Freefire-Diamonds-free-hogatoga-1024x576.jpg",
-      "CpLink" : "https://www.google.com",
-      "Visibility" : true,
+      "CpImage":"https://www.techthirsty.com/wp-content/uploads/2022/04/get-free-diamonds-in-free-fire.jpg",
+      "CpLink" : "https://appinstallcheck.com/cl/i/g6992r",
+      "Visibility" : false,
       "VerificationText" : "Due To Bots That Trys to take all the rewards we require a small verification just click the button bellow and complete some offers",
       "WheelImage" : "https://i.imgur.com/uSocLRp.png",
       "Txt1" : "Pirates bundle",
@@ -139,42 +96,47 @@
       "Img3" : "https://i.imgur.com/9W5mvnz.png",
       "Img4" : "https://i.imgur.com/laWT2cV.png",
       "Img5" : "https://i.imgur.com/QehOtP7.png"
-
+ 
     },
 "GuideData" : [
 {
 "ActivityTitle": "Free Fire Characters",
-"ActivityImage": "https://www.raveby.com/wp-content/uploads/2021/07/f8389-16068022437976-800.jpg",
+"ActivityImage": "https://cdn1.dotesports.com/wp-content/uploads/2021/05/25080329/Garena-Free-Fire.jpg",
 "ViewType":1,
 			"SecondGuideList": [
 			  {
 					"GuideTitle": "Hayato Character",
-					"GuideImage": "https://www.freefiremania.com.br/images/noticias/hayato-despertar.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideImage": "https://i0.wp.com/gamingonphone.com/wp-content/uploads/2022/02/free-fire-hayato-yagami-character.jpg?w=1149&ssl=1",
+					"GuideDescription": "According to Free Fire stories, Hayato is the son of a famous Samurai family. This young Samurai is hiding a secret from the rest of the world. Being the only kid in the family, he upholds the family curse.
+Hayato abilities in Free Fire
+‘Bushido’ is Hayato’s passive skill. With every 10% loss in max HP, the ability enhances armor penetration by 8%. At the max level, every 10% decrease in armor penetration would result in a 10% increase in armor penetration. In addition, players can unlock the Awakening skill (Hayato Firebrand) by completing the provided missions.
+Awaken Skill: This skill reduces frontal damage by 1% at a base level and 3.5% at max level for every 10% max HP loss.  ",
 					"ViewType":1
 			  },
-			  {
-					"GuideTitle": "Christiano Character",
-					"GuideImage": "https://imgsrv2.voi.id/-fzjn3rxqh_lHnF_mqXBcrL2Qh6awML8P2sn-KEuKVw/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy8yMjIwNC8yMDIwMTIwNzE0MjYtbWFpbi5jcm9wcGVkXzE2MDczMjYwMzMuanBlZw.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-					"ViewType":1
-			  },
+ 
+ 
+ 
+ 
+ 
 			  {
 			    "ViewType":2
 			  },
 			 {
 					"GuideTitle": "WuKong Character",
-					"GuideImage": "https://staticg.sportskeeda.com/editor/2021/07/6edf4-16274735301885-800.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideImage": "https://firstsportz.com/wp-content/uploads/2021/10/My-Post-1-2-5-1536x864.jpg",
+					"GuideDescription": "Wukong has an active skill called “Camouflage”. When this skill is activated, it transforms into a bush shield, however with a 20% reduction in movement speed and cooldown time of 200 sec.
+The bush shield lasts for 15 sec unless it gets hit by the opponent or the user fires to the enemy.  One of the most useful advantages is that after you take down an enemy, the cooldown timer resets.",
 					"ViewType":1
 			  },
 			  {
 			    "ViewType":2
 			  },
 			  {
-					"GuideTitle": "Alok Character",
-					"GuideImage": "https://gamingonphone.com/wp-content/uploads/2020/01/images-8.jpeg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideTitle": "Alok Dasha",
+					"GuideImage": "https://img.gurugamer.com/resize/740x-/2020/03/19/free-fire-alok-character-4c8d.jpg",
+					"GuideDescription": "According to Free Fire, Dasha was a satisfied and motivated child until a string of bad occurrences occurred in her life. Her parents had died, her best friend had moved away, her foster family was abusive, and her country was on the verge of war.
+People and the system had betrayed, mistreated, and abused her. When she was 18, she had to choose between fighting for survival, letting her history destroy her, and letting it all go and having fun. She went with the third choice, using fun as a weapon to take back her life.
+The Dasha character has a passive skill named Partying On. This character possesses a set of abilities that helps to reduce damage taken and recovery time from fall, also to reduce the rate of recoil buildup and maximum recoil. Although, the abilities improve with character advancement, allowing players to utilize them to their full potential. The following table shows Dasha’s abilities at various levels.",
 					"ViewType":1
 			  },
 			  {
@@ -184,34 +146,36 @@
 },
 {
 "ActivityTitle": "Free Fire Vehicles",
-"ActivityImage": "https://staticg.sportskeeda.com/editor/2020/08/4fbb1-15966044487133-800.jpg",
+"ActivityImage": "https://mobilemodegaming.com/wp-content/uploads/2020/06/Best-Vehicle-In-Free-Fire.jpg",
 "ViewType":1,
 			"SecondGuideList": [
 			  {
 					"GuideTitle": "Free Fire Monster Truck",
-					"GuideImage": "https://beritabooyah.id/wp-content/uploads/2021/08/monster-truck-thrash-metallic-1024x576.png",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideImage": "https://img.gurugamer.com/resize/740x-/2020/12/23/maxresdefault-7-6a5b.jpg",
+					"GuideDescription": "A monster truck compromises a little on speed. However, it is an excellent choice for uneven terrains on the map. It has a capacity of four people, and can achieve a top speed of 112 km/hr.",
 					"ViewType":1
 			  },
 			  {
 					"GuideTitle": "Free Fire Truck",
-					"GuideImage": "https://img.gurugamer.com/resize/740x-/2020/09/28/maxresdefault-4-598f.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideImage": "https://staticg.sportskeeda.com/editor/2020/08/3d355-15966085893010-800.jpg",
+					"GuideDescription": "The pickup truck is very versatile, with a top speed of 156 km/hr and a minimum capacity of two people. It is a decent choice for players.",
 					"ViewType":1
 			  },
 			  {
 			    "ViewType":2
 			  },
-			  {
-					"GuideTitle": "Free Fire Moto",
-					"GuideImage": "https://img.gurugamer.com/resize/740x-/2020/09/28/maxresdefault-5-8660.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-					"ViewType":1
-			  },
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 			  {
 					"GuideTitle": "Free Fire Ferrari",
-					"GuideImage": "https://img.gurugamer.com/resize/740x-/2020/09/28/maxresdefault-6-1b94.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideImage": "https://sm.ign.com/t/ign_in/screenshot/default/free-fire-race-to-ace-crossover-with-mclaren_vtes.2560.png",
+					"GuideDescription": "The sports car is the best vehicle in the game, as it has a top speed of 136 km/hr and a capacity of two people. This vehicle is also very durable and can be used to travel faster and safely during matches.",
 					"ViewType":1
 			  },
 			  {
@@ -230,28 +194,40 @@
 			  {
 					"GuideTitle": "Free Fire Mp40",
 					"GuideImage": "https://www.gamervines.com/wp-content/uploads/2021/12/Free-Fire-Cobra-MP40-Return.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "
+1. In Free Fire movement is of prime importance and when you are using a gun like MP40 it is even more important that you time and manage your movement. When you and the enemy are engaging in fights in a closed area then use the reverse jump drag and fire to increase the distance between you and the opponent. This will make it difficult for the opponent to make a precise headshot on you.
+2. Now, this has to do with reducing the reload time that can make or break the match for you. When you are using an MP40 in Free Fire always remember to use the double magazine attachment. This will significantly reduce the reloading time for MP40 which means more bullets and less waiting.
+3. If you find an opponent moving around and that player is not aware of your presence then use the crouch and drag to secure a headshot. Free Fire has so many variations of drag shots that only your imagination is your limit. When the opponent is not aware of you then using crouch and headshot will give you a more precise aim in the game.
+4. Recoil control is difficult on MP40 in Garena Free Fire. If your recoil control is still not stable then use this trick. When firing at an opponent instead of continuous fire use movement to break the fire pattern and reset your aim. Movement in a cover of a gloo wall will give you protection and just a millisecond to reset your aim as well.
+5. Now this one is especially important when using the MP40. Since MP40 is an SMG it is not wise to use it for long-distance engagement with the opponents. So always remember to maintain a distance of at least 15 to 20 meters and not too much when you are using MP40 in the game. Switch to an AR or Sniper if you have to take a long shot.",
 					"ViewType":1
 			  },
 			  {
 					"GuideTitle": "Free Fire M1014",
 					"GuideImage": "https://api.duniagames.co.id/api/content/upload/file/11567119631602149806.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "1. Use quick weapon switch
+ 
+Usually, the M1014 would serve as a sidearm that you pull out when engaging in close-range combat. Because of this, being able to switch it out fast is the key - you must enable the Quick Weapon Switch in Options by toggling on [Setting>Controls>Quick Weapon Switch].
+2. Pick the suitable character skill
+ 
+Dasha's ability to reduce recoil and Jota's ability to heal after getting a shotgun kill would be the best skill to equip if you are planning on using the M1014. A124's heal is also pretty useful as well - you would be going 1 vs 1 most of the time.
+3. How to headshot using the M1014
+ 
+While it might be tempting to just do body shots, getting a headshot is still the fastest way to end your foes. The key to scoring headshots with the M1014 is firing 2 bullets in a row while aiming at the torso - the high recoil would drag your second bullet onto the target's head. You need to adjust your aim frequently - don't fire everything as soon as you see enemies.",
 					"ViewType":1
 			  },
 			  {
 			   "ViewType":2
 			  },
-			  {
-					"GuideTitle": "Free Fire Mp05",
-					"GuideImage": "https://en.esportsku.com/wp-content/uploads/2021/02/mp5-gold.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
-					"ViewType":1
-			  },
+ 
 			  {
 					"GuideTitle": "Free Fire Ak",
 					"GuideImage": "https://www.gtainside.com/downloads/picr/2020-09/1601128175_FF_menuBG4.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "AK is a very iconic AR weapon, almost all FPS genre games have this weapon. This Soviet developed weapon, apart from being popular, certainly has good stats in almost all games, including Free Fire.
+ 
+In Free Fire itself, AK has a pretty strong stat. With high damage of 61 points and RoF of 56, the DPS of this weapon is definitely very high. The disadvantage of AK is that this weapon is a bit difficult to control and use if the user is not familiar. But with the complete attachments the AK can become a deadly weapon.
+ 
+The use of AK is mostly difficult to use for aggressive play because of the unruly recoil, some high rank AK players use this weapon as a long range weapon. Using AK as a long range weapon can maximize the stat range of this AK.",
 					"ViewType":1
 			  },
 			  {
@@ -267,13 +243,29 @@
 			  {
 					"GuideTitle": "Free Fire Kalahari Map",
 					"GuideImage": "https://www.pcquest.com/wp-content/uploads/2020/07/Refinery.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "Best places to land on Free Fire's Kalahari.
+1. Refinery
+The Refinery attracts a lot of players due to the amount of loot that one can find in the location. If you are an aggressive player, you will definitely enjoy landing here as you will find a lot of enemies to kill.
+The location of the Refinery, which is at the centre of the map, is an added advantage as players can easily rotate to the safe zones.
+2. The Sub
+The Sub or the Submarine is a popular drop location in Garena Free Fire. Players will be able to find a decent amount of high-tier guns, equipment and other items in this area. They are also likely to find a vehicle, which can be used later in the game.
+3. Confinement
+Confinement is often overlooked by players as it is located in the corner of the map. In this area, one can easily find an ample amount of loot for the whole squad. While very few users drop onto this location, players should keep an eye on the formation of the next play zone so that they can start rotating quickly.
+ 
+There are several other locations in the Kalahari map, like Foundation and Mammoth, where players can find great loot.",
 					"ViewType":1
 			  },
 			  {
 					"GuideTitle": "Free Fire Purgatory Map",
 					"GuideImage": "https://img.gurugamer.com/resize/1200x-/2020/05/29/ee1a7e20d361c9899457e1a2220f1519-1949.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "Best landing spots in Free Fire's Purgatory
+1. Brasilia
+This area is located right in the center of the map and offers top-tier loot. Beginners must avoid this place as pro players often land in this spot and indulge in intense fights right at the outset of the match. Since Brasilia is in the middle of Purgatory, the cluster of buildings is also a good place to camp.
+2. Central
+Central, located towards the southern side of the map, is also a popular place to loot. Depending on the trajectory of the plane, it is often chosen by squads to get good loot. Note that since the spot lies towards the edge of the map, players must remember to move towards the center of the safe zone in time.
+3. Crossroads
+Crossroads is located towards the north-western corner of Purgatory. This spot is not a very popular place and has small houses from which players can find mid-tier loot and sufficient supplies. Beginners can choose this spot as it is not chosen by expert gamers too often.
+",
 					"ViewType":1
 			  },
 			  {
@@ -282,13 +274,25 @@
 			  {
 					"GuideTitle": "Free Fire Bermuda Map",
 					"GuideImage": "https://freefirenews.in/wp-content/uploads/72812-16430930304413-1920.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "Free Fire: Best places to land in Bermuda Map
+1. Peak
+Peak is one of the hot-drop locations on the Bermuda map, as it is located around the central region. Firearms and other equipment are scattered evenly across this area. There are several houses in which the users can find a sufficient amount of loot. However, the players need to be cautious at all times, as many other players will be landing at the spot as well.
+2. Mill
+Mill is quite a popular location amongst the player base, but the users must note that the loot is very concentrated and there aren't many buildings present in the area. Therefore, several enemies might be lurking around, waiting for the right opportunity to fire.
+3. Bimasaki Strip
+The Bimasakti Strip consists of several houses that contain an abundance of loot. The players can also find a vehicle that they might have to use to rotate across the map. It is also located around the center of the Bermuda map, so one will be able to see several other players dropping here.  ",
 					"ViewType":1
 			  },
 			  {
 					"GuideTitle": "Free Fire Bermuda Remastered Map",
 					"GuideImage": "https://www.touchtapplay.com/wp-content/uploads/2020/12/screen-0.jpg",
-					"GuideDescription": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
+					"GuideDescription": "Top 3 Tips And Tricks For The Bermuda Remastered Map In Free Fire
+1. Avoid landing on hot zones
+With the new version of Bermuda having 4 new locations, a lot of players would try to land on them to explore... and fighting at the beginning of the game against multiple players is really risky. Even the best Free Fire player could be killed if caught off guard.
+2. Camping or set up ambushes
+After picking up a decent weapon (preferably an AR, it is best to find some spot to camp for enemies instead of moving around. You might get less kill this way, but your chance of surviving until the end of the game would be much higher. Only move when you need to get to the next safe circle.
+3. Try to get a good weapon combo
+It is recommended that you have a combo of one long-range and one short-range weapon. That way you would be able to deal with any situations that might occur. Having two sniper rifles at the same time is cool but overkill. The Bermuda map is certainly big... but you still need an SMG or shotgun for close quarters in buildings.",
 					"ViewType":1
 			  },
 			  {
